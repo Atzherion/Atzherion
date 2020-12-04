@@ -1,6 +1,6 @@
 ### Hai there 👋
 
-## I'm a Discord Developer
+## I'm SoulzTheAtzher / AtzherTheForgetten A Fellow Discord Developer
 
 - 🌱 Currently Learning node.js
 - 🔭 Founder Of Ark Nation
