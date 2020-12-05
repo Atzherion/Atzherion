@@ -1,3 +1,5 @@
+[![banner](https://media.discordapp.net/attachments/770088352811581470/784650445464797195/20201205_132025.jpg?width=922&height=308)](atzhertheforgetten.github.io)
+
 ### Hai there 👋
 
 ## I'm SoulzTheAtzher / AtzherTheForgetten A Fellow Discord Developer
