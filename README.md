@@ -6,7 +6,7 @@
 
 - 🌱 Currently Learning node.js
 - 🔭 Founder Of Ark Nation
-- 🥅 2020 Goals: 500 Members On Chill House
+- 🥅 2021 Goals: 500 Members On Nite City
 - ⚡ Fun fact: I like reading and watching anime
 
 ### Languages and Tools:
