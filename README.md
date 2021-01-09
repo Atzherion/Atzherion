@@ -2,10 +2,12 @@
 
 ### Hai there 👋
 
-## I'm SoulzTheAtzher / AtzherTheForgetten A Fellow Discord Developer
+![Discord](https://discord.c99.nl/widget/theme-2/765363887561506837.png)
+
+## I'm Atzherion / Atzherion・アテリオン A Fellow Discord Developer
 
 - 🌱 Currently Learning node.js
-- 🔭 Founder Of Ark Nation
+- 🔭 Co Founder / Developer On Nite City
 - 🥅 2021 Goals: 500 Members On Nite City
 - ⚡ Fun fact: I like reading and watching anime
 
