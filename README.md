@@ -6,6 +6,8 @@
 
 ## I'm Atzherion / Atzherion・アテリオン A Fellow Discord Developer
 
+ **Information:**
+ 
 - 🌱 Currently Learning node.js
 - 🔭 Co Founder / Developer On Nite City
 - 🥅 2021 Goals: 500 Members On Nite City
