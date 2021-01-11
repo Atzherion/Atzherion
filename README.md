@@ -30,7 +30,7 @@
 **Stats:**  
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Atzherion&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Atzherion&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtzherTheForgetten&theme=tokyonight&hide=batchfile">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Atzherion&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atzherion&theme=tokyonight&hide=batchfile">
 <br />
 <br />
 ---
