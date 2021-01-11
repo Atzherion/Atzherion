@@ -1,4 +1,4 @@
-[![banner](https://media.discordapp.net/attachments/770088352811581470/784650445464797195/20201205_132025.jpg?width=922&height=308)](atzhertheforgetten.github.io)
+[![banner](https://cdn.discordapp.com/attachments/771622174275797003/798092707175464960/20210111_153411.png?width=922&height=308)](atzhertheforgetten.github.io)
 
 ### Hai there 👋
 
