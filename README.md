@@ -9,9 +9,9 @@
  **Information:**
  
 - 🌱 Currently Learning node.js
-- 🔭 Co Founder / Developer On Nite City
+- 🔭 Main Founder Of Nite City
 - 🥅 2021 Goals: 500 Members On Nite City
-- ⚡ Fun fact: I like reading and watching anime
+- ⚡ Fun fact: I Read Webtoon And I Like Watch Anime.
 
 **Languages and Tools:**  
 
