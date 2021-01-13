@@ -8,10 +8,10 @@
 
  **Information:**
  
-- 🌱 Currently Learning node.js
-- 🔭 Main Founder Of Nite City
-- 🥅 2021 Goals: 500 Members On Nite City
-- ⚡ Fun fact: I Read Webtoon And I Like Watch Anime.
+- Currently Learning node.js
+- Main Founder Of Nite City
+- 2021 Goals: 500 Members On Nite City
+- Fun fact: I Read Webtoon And I Like Watch Anime.
 
 **Languages and Tools:**  
 
