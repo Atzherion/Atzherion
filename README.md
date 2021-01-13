@@ -4,7 +4,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-2/765363887561506837.png)
 
-## I'm Atzherion / Atzherion・アテリオン A Fellow Discord Developer
+## I'm Atzherion / Atzherion・アテリオン A Fellow Discord Bot Developer And a Weeb
 
  **Information:**
  
