@@ -9,9 +9,9 @@
  **Information:**
  
 - Currently Learning node.js
-- Main Founder Of Nite City [https://dsc.gg/nitecity]
+- Main Co-Founder Of Nite City [https://dsc.gg/nitecity]
 - 2021 Goals: 500 Members On Nite City [https://dsc.gg/nitecity]
-- My Current Activity Is Developing Arch
+- My Current Activity Is Developing Hexa
 - Fun fact: I Hate Spider :C
 
 **Languages and Tools:**  
