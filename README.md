@@ -9,9 +9,10 @@
  **Information:**
  
 - Currently Learning node.js
-- Main Co-Founder Of ECL / Eclipse [https://dsc.gg/eclipsecl]
-- 2021 Goals: 500 Members On ECL [https://dsc.gg/eclipsecl]
-- My Current Activity Is Developing Akuyo And AkuyoMusic
+- Watching Anime Everyday
+- Having a Dead Community
+- Being Introvert ngl
+- My Current Activity Is Developing Synth And Moonlight Maid
 - Fun fact: I Hate Spider :C
 
 **Languages and Tools:**  
