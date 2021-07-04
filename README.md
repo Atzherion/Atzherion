@@ -2,11 +2,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-2/765363887561506837.png)
 
-Hey There! I'm *Atzherion*, a Fellow Discord Bot Developer And a Weeaboo From Indonesia!. I Also Interested In Website Development. I’m Currently a High-School Student. Thanks!
-
-<br />
-<br />
----
+Hey There! I'm **Atzherion**, a Fellow Discord Bot Developer And a Weeaboo From Indonesia!. I Also Interested In Website Development. I’m Currently a High-School Student. Thanks!
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
